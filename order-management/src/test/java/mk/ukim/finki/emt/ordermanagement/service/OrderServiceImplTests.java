@@ -39,11 +39,11 @@ public class OrderServiceImplTests {
     public void testPlaceOrder() {
 
         OrderItemForm oi1 = new OrderItemForm();
-        oi1.setProduct(newProduct("Pizza",Money.valueOf(Currency.MKD,1500)));
+        oi1.setProduct(newProduct("Bag1",Money.valueOf(Currency.MKD,1500)));
         oi1.setQuantity(1);
 
         OrderItemForm oi2 = new OrderItemForm();
-        oi2.setProduct(newProduct("Hot Dog",Money.valueOf(Currency.MKD,500)));
+        oi2.setProduct(newProduct("Bag2",Money.valueOf(Currency.MKD,500)));
         oi2.setQuantity(2);
 
         OrderForm orderForm = new OrderForm();

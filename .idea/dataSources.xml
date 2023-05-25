@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="po_bags@localhost" uuid="2f3fc744-88a1-45f2-a481-d94bbe1dcead">
+    <data-source source="LOCAL" name="po_bags@localhost" uuid="3f961714-21c6-4ff8-8de2-289b2c5d9d31">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/po_bags</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="po_orders@localhost" uuid="2a7392eb-a30a-415e-bd29-0577d998f299">
+    <data-source source="LOCAL" name="po_orders@localhost" uuid="5323cedd-4694-4e3b-824b-4cf4c5552ed6">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/po_orders</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="po_users@localhost" uuid="9af9ed44-1465-4859-b3df-51a288dd5c9b">
+    <data-source source="LOCAL" name="po_users@localhost" uuid="3be2b6f8-9a4a-4d2d-9e3a-153d1bb59652">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
